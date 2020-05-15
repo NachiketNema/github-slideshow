@@ -1,0 +1,5 @@
+layout: slide
+tilte: "Welcome to our second slide!"
+
+your text
+Use the left arrow key to go back!
